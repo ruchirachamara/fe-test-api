@@ -1,5 +1,8 @@
-# slim-jwt-demo
-Secure your Slim PHP web services using JWT Authentication
+# ef-test-api
+API created with the slim micro service framework
 
-Post Link:- https://trinitytuts.com/secure-your-php-web-services-using-jwt/
+# Install Dependencies
+composer update
 
+# Change the Authentication for the database connection settings
+src/routes.php
