@@ -19,7 +19,7 @@ Change the authentication for the database connection settings in <br />
 
 # Run the REST API
 To run the API up and running just the following command would be enough.
-### `- cd ef-test-api/public`
+### `- cd fe-test-api/public`
 ### `- php -S localhost:8080`
 
 # Database
