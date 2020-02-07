@@ -4,6 +4,7 @@ API created based with the slim micro service framework
 
 # Composer Install
 Install composer to install the dependency manager for the php microframework
+https://getcomposer.org/doc/00-intro.md
 ## php composer install
 
 # Install Dependencies
