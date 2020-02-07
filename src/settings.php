@@ -18,7 +18,7 @@ return [
 
         'db' => [
             // 'servername' =>'eb360.cxeb2rsmch5m.ap-southeast-2.rds.amazonaws.com',
-            'servername' =>'localhost:8889',
+            'servername' =>'localhost',
             'username' => 'root',
             'password' => 'root',
             'dbname' => 'fe-test',
